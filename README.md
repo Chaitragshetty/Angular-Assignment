@@ -2,8 +2,9 @@
  In this scenario, create a component, say component1. A user should be able to enter text in the .html template file of the component. The component should print out the user text to console. Create the component in a scenario1 folder of your project. All files of the component should be inside the scenario1 folder.
 2.  Scenario 2 
 In this scenario, create a component, say component1. A user should be able to enter text in the .html template file of the component. The template should display the text as the user types. Create the task in a scenario2 folder of your project. All files of the component should be inside the scenario2 folder. Scenario 3 component1.htmlcomponent1.tsComponent1Print out to consoleEnter text in HTMLcomponent1.htmlcomponent1.tsComponent1Enter text in HTML. HTML should display entered text as user types 
+3. scenario3
 In this scenario, create two components, say component1 and component2.  Component1 is a parent of component2.  A user should be able to enter text in the .html template file of component1. The template of component2 should display the text. Create the task in a scenario3 folder of your project. All files of the components should be inside the 
-3. scenario3 
+ 
 folder.
 4. Scenario 4
  component1.htmlcomponent1.tsComponent1Enter text in HTML. Component2.htmlcomponent2.tsComponent2 Display text Parent Of
